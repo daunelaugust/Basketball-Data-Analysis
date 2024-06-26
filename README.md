@@ -6,4 +6,5 @@ This Project is hosted on jupyter notebook
 
 - EDA on different Basketball stats for when NBA & NCAA players reach their prime based on age
 - Evolution of 3pt scoring in the NBA
-- RF algorithm and Nueral Network
+- RF algorithm and Neural Network
+  -Will update for 2024-2025 season
